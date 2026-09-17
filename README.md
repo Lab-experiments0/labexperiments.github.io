@@ -2,7 +2,7 @@
 - Expectations: Lab tests are here
 
 
-  This site is the website of [The Lab Media Archive](https://labexperiments.de)!
+  This site is the website of [The Lab Media Archive](https://labexperiments.xyz)!
 ## What is a DNS CNAME record?
 
 A CNAME record, canonical name, or alias record is a DNS record type used in place of an A (for IPv4) or AAAA (for IPv6) record when the domain or subdomain is an alias of another domain.
