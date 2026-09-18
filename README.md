@@ -8,3 +8,9 @@
 A CNAME record, canonical name, or alias record is a DNS record type used in place of an A (for IPv4) or AAAA (for IPv6) record when the domain or subdomain is an alias of another domain.
 
 All CNAME records must point to a domain name, not an IP address. Suppose, for example, the subdomain www, which is an alias of the root domain abc.com. The users accessing www.abc.com are referred to the root domain (or DNS zone apex). That means a DNS query that hits the DNS server for the DNS info of www.abc.com triggers another DNS lookup query for abc.com to get an IP address via its A or AAAA record.
+
+Often, the TXT records are used for domain verification. But sometimes, the provider may generate a unique verification code as a subdomain and ask to point it to prove ownership of the main domain.
+
+## The Lab Media Archive
+the lab media archive is currently owned by Soiller Inc.
+the lab media archive is a archive of lab experiments and science tests.
